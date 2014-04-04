@@ -28,6 +28,7 @@ contabilizar tempo.<br>
 
 header.html (Cabeçalho) <br>
 footer.html (Rodapé) <br>
+404.html (page not found) <br>
 index.html  (Tela inicial após login) <br>
 login.html (login) <br>
 cadastro_cli.html (cadastro de Cliente) <br>
